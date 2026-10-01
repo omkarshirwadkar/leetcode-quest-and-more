@@ -8,4 +8,4 @@ def removeElement(nums, val):
 
 nums = [1, 2, 3, 2, 2, 5, 19, 3, 3]
 val = [2]
-print("Mismatched elemts: ", removeElement(nums, val))
+print("Mismatched elements: ", removeElement(nums, val))
